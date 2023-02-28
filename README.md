@@ -13,6 +13,6 @@ Unser Beispielprojekt ist eine Uhr mit einigen Sonderfunktionen und netter Anima
 
 Die Platine ist für das Futaba-Display von Pollin ausgelegt, kann aber leicht mit einer Adapterplatine auf andere Displays oder Einzel-Röhren angepasst werden. Gerber-Daten für die Fertigung sind im ZIP enthalten. 
 
-Die Firmware wurde mit dem (inzwischen kostenlosen) AVRco Pascal (www.e-lab.de) entwickelt, hierzu die Projektdatei *VFD_CLOCK.ppro* importieren.
+Die Firmware wurde mit dem (inzwischen kostenlosen) [AVRco Pascal](https://www.e-lab.de/downloads/AVRco/rev4/index.html) entwickelt, hierzu die Projektdatei *VFD_CLOCK.ppro* importieren.
 
 Das Platinenlayout wurde mit EasyPC Version 22 erstellt.
