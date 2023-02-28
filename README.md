@@ -15,4 +15,6 @@ Die Platine ist für das Futaba-Display von Pollin ausgelegt, kann aber leicht m
 
 Die Firmware wurde mit dem (inzwischen kostenlosen) [AVRco Pascal](https://www.e-lab.de/downloads/AVRco/rev4/index.html) entwickelt, hierzu die Projektdatei *VFD_CLOCK.ppro* importieren.
 
+Des Gehäuse besteht aus zwei lasergeschnittenen Plexiglasscheiben mit 3mm Stärke (siehe DXF-Datei).
+
 Das Platinenlayout wurde mit EasyPC Version 22 erstellt.
