@@ -3,7 +3,7 @@
 
 Maker Media GmbH
 
-![Aufmacher](https://github.com/MakeMagazinDE/DigitaleFilter/blob/main/aufm_kl.JPG)
+![Aufmacher](https://github.com/MakeMagazinDE/Fluoreszenzdisplays/blob/main/aufm_gh.JPG)
 
 # Fluoreszenzdisplays
 
