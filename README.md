@@ -15,10 +15,12 @@ Die Platine ist für das Futaba-Display von Pollin (siehe *D121537D_clock_vfd.PD
 
 Die Firmware wurde mit dem (inzwischen kostenlosen) [AVRco Pascal](https://www.e-lab.de/downloads/AVRco/rev4/index.html) entwickelt, hierzu die Projektdatei *VFD_CLOCK.ppro* importieren.
 
-Des Gehäuse besteht aus zwei lasergeschnittenen Plexiglasscheiben mit 3mm Stärke (siehe DXF-Datei).
+Das Gehäuse für die Versionen mit Pollin-Display besteht aus zwei lasergeschnittenen Plexiglasscheiben mit 3mm Stärke (siehe DXF-Datei).
 
-Die Platinenlayoute wurden mit EasyPC Version 22 erstellt, die exprtierten Gerber-Files zur Platinenfertigung sind in den ZIPs enthalten. Es stehen drei verschiedene Versionen zur Verfügung:
+Die Platinenlayouts wurden mit EasyPC Version 22 erstellt, die exprtierten Gerber-Files zur Platinenfertigung sind in den ZIPs enthalten. Es stehen drei verschiedene Versionen zur Verfügung:
 
-* **vfd_pcb_atmega_4094** ist die Grundversion wie im Heft beschrieben mit ATMEGA328 für das Pollin-Display, diskret aufgebaut mit 4049-Schieberegistern und ICs im DIL-Gehäuse
+* **vfd_pcb_atmega_4094** ist die Grundversion wie im Heft beschrieben mit ATMEGA328 für das Pollin-Display, diskret aufgebaut mit 4049-Schieberegistern, UDN2981-Treibern und (größtenteils) bedrahteten Bauteilen
 * **vfd_pcb_atmega_max6921** mit ATMEGA328 für das Pollin-Display, jedoch mit MAX6921 als Treiberbaustein in SMD-Technik
-* **vfd_pcb_pt6315_esp8266** ist eine neue Version in SMD-Technik mit ESP8266 und PT6315 mit separaten Adapterplatinen für die Röhren IV-11, IV4/IV-17 und IV-22 in vier- und sechsstelligen Versionen
+* **vfd_pcb_pt6315_esp8266** ist eine neue Version in SMD-Technik mit ESP8266 und PT6315 mit separaten Adapterplatinen für die Röhren IV-11, IV4/IV-17 und IV-22 in vier- und sechsstelligen Versionen. Die Firmware für diese Version wird nach erhalt der Platinen-Muster fertiggestellt.
+
+Beachten Sie die Schalt- und Bestückungspläne in den jeweiligen Verzeichnissen (PDF).
