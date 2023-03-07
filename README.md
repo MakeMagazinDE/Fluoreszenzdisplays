@@ -11,11 +11,7 @@ Retro oder Mehrwert? Vakuum-Fluoreszenzdisplays (VFDs) sind hell, blickwinkeluna
 
 Unser Beispielprojekt ist eine Uhr mit einigen Sonderfunktionen und netter Animation der Ziffernanzeige, kompiliert für den ATmega328.
 
-Die Platine ist für das Futaba-Display von Pollin (siehe *D121537D_clock_vfd.PDF*) ausgelegt, kann aber leicht mit einer Adapterplatine auf andere Displays oder Einzel-Röhren angepasst werden. Gerber-Daten für die Fertigung sind im ZIP enthalten. 
-
-Die Firmware für die Versionen mit ATmega328 wurde mit dem (inzwischen kostenlosen) [AVRco Pascal](https://www.e-lab.de/downloads/AVRco/rev4/index.html) entwickelt, hierzu die Projektdatei *VFD_CLOCK.ppro* importieren.
-
-Das Gehäuse für die Versionen mit Pollin-Display besteht aus zwei lasergeschnittenen Plexiglasscheiben mit 3mm Stärke (siehe DXF-Datei).
+Die Firmware für die Versionen mit ATmega328 wurde mit dem (inzwischen kostenlosen) [AVRco Pascal](https://www.e-lab.de/downloads/AVRco/rev4/index.html) entwickelt, hierzu die Projektdatei *VFD_CLOCK.ppro* importieren. Kompilerschalter {$IFDEF} legen fest, ob ein MAX6921 oder 4094-Schieberegister verwendet werden sollen. Das Gehäuse für die Versionen mit Pollin-Display besteht aus lasergeschnittenen Plexiglasscheiben mit 3mm Stärke (siehe DXF- oder CorelDraw-Dateien).
 
 Die Platinenlayouts wurden mit EasyPC Version 22 erstellt, die exportierten Gerber-Files zur Platinenfertigung sind in den ZIPs enthalten. Es stehen drei verschiedene Versionen zur Verfügung:
 
