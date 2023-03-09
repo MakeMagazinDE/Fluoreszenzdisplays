@@ -7,4 +7,4 @@ in vier- und sechsstelligen Versionen.
 * Bestückungspläne in *xxx_silk.pdf*
 * Gerber-Files zur Platinenfertigung in ZIP-Files
 
-Die Firmware für diese Version wird nach erhalt der Platinen-Muster fertiggestellt.
+Die Firmware für diese Version wird nach Erhalt der Platinen-Muster fertiggestellt.
