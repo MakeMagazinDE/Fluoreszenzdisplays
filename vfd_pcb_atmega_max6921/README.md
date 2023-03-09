@@ -7,10 +7,4 @@ jedoch mit MAX6921 als Treiberbaustein in SMD-Technik
 * Bestückungsplan in *vfd_avr_4094_2_silk.pdf*
 * Gerber-Files zur Platinenfertigung im ZIP-File
 
-Bei der Kompilierung Compiler-Schalter für MAX6921 richtig setzen:
-
-// Wenn aktiv,  Platinenversion SMD mit MAX6921AWI, sonst 4094-SR:
-
-{$DEFINE NEW_PCB}
-
-Mit {$DEFINE SENSOR_BTN} können kapazitive Sensor-Tasten mit positivem Ausgangsimpuls angeschlossen werden, dazu sind auf der Platine 4 dreipolige Steckverbinder vorgesehen.
+Bei der Kompilierung Compiler-Schalter {$DEFINE NEW_PCB} für MAX6921 setzen. Mit {$DEFINE SENSOR_BTN} können kapazitive Sensor-Tasten mit positivem Ausgangsimpuls angeschlossen werden, dazu sind auf der Platine 4 dreipolige Steckverbinder vorgesehen.
