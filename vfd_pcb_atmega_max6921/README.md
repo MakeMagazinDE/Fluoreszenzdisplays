@@ -9,5 +9,5 @@ jedoch mit MAX6921 als Treiberbaustein in SMD-Technik
 
 Bei der Kompilierung Compiler-Schalter für MAX6921 richtig setzen:
 
- // Wenn aktiv,  Platinenversion SMD mit MAX6921AWI, sonst 4094-SR:
- {$DEFINE NEW_PCB}
+'// Wenn aktiv,  Platinenversion SMD mit MAX6921AWI, sonst 4094-SR:
+'{$DEFINE NEW_PCB}
