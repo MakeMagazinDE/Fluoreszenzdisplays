@@ -7,7 +7,7 @@ Maker Media GmbH
 
 # Fluoreszenzdisplays
 
-Retro oder Mehrwert? Vakuum-Fluoreszenzdisplays (VFDs) sind hell, blickwinkelunabhängig und lassen sich hervorragend ablesen – man findet sie deshalb oft in hochwertigen Messgeräten, Musikelektronik und HiFi-Equipment. Wir zeigen an einer Beispielanwendung, wie man sie einsetzt und was bei der Ansteuerung zu beachten ist.
+Retro oder Mehrwert? Vakuum-Fluoreszenzdisplays (VFDs) sind hell, blickwinkelunabhängig und lassen sich hervorragend ablesen – man findet sie deshalb oft in hochwertigen Messgeräten, Musikelektronik und HiFi-Equipment. Wir zeigen in **Make: 2/23**, wie man sie einsetzt und was bei der Ansteuerung zu beachten ist.
 
 Unser Beispielprojekt ist eine Uhr mit einigen Sonderfunktionen und netter Animation der Ziffernanzeige, kompiliert für den ATmega328.
 
