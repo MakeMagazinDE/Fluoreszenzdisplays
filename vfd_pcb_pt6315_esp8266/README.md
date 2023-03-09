@@ -3,6 +3,8 @@
 für russische Röhren mit separaten Adapterplatinen für die Röhren IV-11, IV-4/IV-17 und IV-22 
 in vier- und sechsstelligen Versionen. 
 
-* Bestückungspläne in *xxx_silk.pdf*.
+* Schaltplan in *vfd_esp_mc34063_smd_schem.pdf*
+* Bestückungspläne in *xxx_silk.pdf*
+* Gerber-Files zur Platinenfertigung in ZIP-Files
 
 Die Firmware für diese Version wird nach erhalt der Platinen-Muster fertiggestellt.
