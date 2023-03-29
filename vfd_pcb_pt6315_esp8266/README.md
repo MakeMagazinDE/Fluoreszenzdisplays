@@ -10,7 +10,7 @@ montiert werden können.
 
 Die Firmware für diese Version finden Sie im Unterverzeichnis *src*.
 
-Bitte beachten: Die Treiber PT6311 bis PT6315 benötigen im Unterschied zum MAX6921 eine negative Spannung Vee, der Heizfaden muss auf Vee-Potential liegen. Wir haben hier zur Spannungsversorgung einen selbstgewickelten Übertrager auf EFD15-Kern ohne Luftspalt vorgesehen:
+Bitte beachten: Die Treiber PT6311 bis PT6315 benötigen im Unterschied zum MAX6921 eine negative Spannung Vee, der Heizfaden (Kathode der Röhren) muss auf Vee-Potential liegen. Wir haben hier zur Spannungsversorgung einen selbstgewickelten Übertrager auf EFD15-Kern ohne Luftspalt vorgesehen:
 
 **Primär** 2x7 Windungen bifilar gewickelt, 0,4mm CuL
 
