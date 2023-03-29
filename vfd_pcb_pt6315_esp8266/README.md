@@ -20,4 +20,4 @@ Bitte beachten: Die Treiber PT6311 bis PT6315 benötigen im Unterschied zum MAX6
 
 Der Übertrager benötigt den Transformator-Treiber SN6505A (SOT23-Gehäuse). 
 
-Bei Beschaffungsproblemen können auch in Reihe geschaltete 1W-DC/DC-Wandler 5V/12V und 5V/15V verwendet werden. Die maximale Spannung Vee darf aber 40V nicht überschreiten. Für die Heizung der VFDs wird dann ein DC/DC-Wandler 5V/3,3V verwendet. Der Heizstromverbrauch der russischen Röhren ist relativ hoch, so dass dieser Wandler 2W leisten sollte. Für das Pollin-Display reicht eine 1W-Ausführung.
+Bei Beschaffungsproblemen können anstelle des Übertragers auch in Reihe geschaltete 1W-DC/DC-Wandler 5V/12V und 5V/15V verwendet werden. Die maximale Spannung Vee darf aber -40V nicht überschreiten. Für die Heizung der VFDs wird dann ein DC/DC-Wandler 5V/3,3V verwendet. Der Heizstromverbrauch der russischen Röhren ist relativ hoch, so dass dieser Wandler 2W leisten sollte. Für das Pollin-Display reicht eine 1W-Ausführung. Zur Anpassung der Heizleistung dienen bedrahtete Widerstände (nominal 6,8 Ohm) auf den Röhren-Adapterplatinen.
