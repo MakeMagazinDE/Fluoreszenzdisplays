@@ -4,13 +4,13 @@ für russische Röhren mit separaten Adapterplatinen für die Röhren IV-11, IV-
 in vier- und sechsstelligen Versionen. Die Adapterplatinen besitzen beidseitige Steckleisten, so dass sie senkrecht oder parallel zur Hauptplatine 
 montiert werden können.
 
-* Schaltplan in *vfd_esp_mc34063_smd_schem.pdf*
+* Schaltplan in *vfd_esp_main_06_schem.pdf*
 * Bestückungspläne in *xxx_silk.pdf*
 * Gerber-Files zur Platinenfertigung in ZIP-Files
 
 Die Firmware für diese Version finden Sie im Unterverzeichnis *src*.
 
-Bitte beachten: Die Treiber PT6311 bis PT6315 benötigen eine negative Spannung Vee, der Heizfaden muss auf Vee-Potential liegen. Wir haben hier einen selbstgewickelten Übertrager auf EFD15-Kern ohne Luftspalt vorgesehen:
+Bitte beachten: Die Treiber PT6311 bis PT6315 benötigen im Unterschied zum MAX6921 eine negative Spannung Vee, der Heizfaden muss auf Vee-Potential liegen. Wir haben hier zur Spannungsversorgung einen selbstgewickelten Übertrager auf EFD15-Kern ohne Luftspalt vorgesehen:
 
 Primär 2x7 Windungen bifilar gewickelt, 0,4mm CuL
 
