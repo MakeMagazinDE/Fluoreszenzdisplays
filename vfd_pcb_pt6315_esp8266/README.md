@@ -1,3 +1,10 @@
+
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
+
+Maker Media GmbH
+
+![Aufmacher](https://github.com/MakeMagazinDE/Fluoreszenzdisplays/blob/main/aufm_gh.JPG)
+
 ## VFD-Uhr/Display mit ESP8266 und PT6315
 
 für russische Röhren mit separaten Adapterplatinen für die Röhren IV-11, IV-4/IV-17, IV-22 und das Pollin-Display
