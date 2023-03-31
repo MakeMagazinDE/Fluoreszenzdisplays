@@ -3,7 +3,7 @@
 
 Maker Media GmbH
 
-![Aufmacher](https://github.com/MakeMagazinDE/Fluoreszenzdisplays/blob/main/aufm_gh.JPG)
+![Aufmacher]([https://github.com/MakeMagazinDE/Fluoreszenzdisplays/blob/main/aufm_gh.JPG](https://github.com/MakeMagazinDE/Fluoreszenzdisplays/blob/main/vfd_pcb_pt6315_esp8266/ivl2-75.jpeg)
 
 ## VFD-Uhr/Display mit ESP8266 und PT6315
 
